@@ -1,4 +1,5 @@
 # this fix the problem
+# now im just writting more comments
 import random
 
 name = "Joe"
